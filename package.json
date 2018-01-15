@@ -2,5 +2,7 @@
   "name": "Weather",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/marcusp619/Weather-API.git",
+  "author": "Mark Pearyer <Marcusp619@gmail.com>"
 }
